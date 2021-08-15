@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tongju22
+- 👀 I’m interested in cloud consulting
+- 🌱 I’m currently learning AWS/GCP/Azure
